@@ -13,4 +13,4 @@ You can use these schematics in conjunction with [Schemetica](https://minecraft.
 
 [TheBestOpinion](https://www.reddit.com/user/TheBestOpinion) on Reddit for most schematics and inspiration to create this github.
 
-[Hiddenseek/Vevion](Creator of this github ^_^)
+[Hiddenseek/Vevion](https://ugcraft.com) Some schematics and made the github page ^_^
