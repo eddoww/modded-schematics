@@ -25,11 +25,6 @@ You can fiddle with them at `.minecraft/config/schematica.cfg`. The lines of int
 
 Or [check out](https://github.com/eddoww/modded-schematics/releases/download/v1.2/schematica.cfg) our cfg file.
 
-
-#### WorldEdit (forge)
-
-WorldEdit loads its schematics from the `.minecraft/config/worldedit/schematics` folder
-
 ### Todo
 
 * Abyssal Craft
@@ -60,8 +55,8 @@ WorldEdit loads its schematics from the `.minecraft/config/worldedit/schematics`
 * Tech Reborn
 * Terraqueous
 * **~~Thaumcraft~~**
-* Tinkers Smeltery (1x1 and 5x5 and different sizes? )
-* Vanilla Nether Portal
+* **~~Tinkers Smeltery~~**
+* **~~Vanilla~~**
 * **~~Wizardry~~**
 * **~~Woot~~**
 
