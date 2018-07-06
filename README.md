@@ -1,16 +1,15 @@
 # Modded Schematics
-Schematic files for Modded Minecraft. These can be used with worldedit, or Schematica mod if you please. Most are created for the more recent 1.12 modpacks, but they may or may not work on older modpacks as well.
 
-
-
-## Usage
-You can use these schematics in conjunction with [Schemetica](https://minecraft.curseforge.com/projects/schematica/files) or [Worldedit](https://minecraft.curseforge.com/projects/worldedit).
+Schematic files for modded Minecraft 1.12.2 that can be used with
+[Schemetica](https://minecraft.curseforge.com/projects/schematica) and
+[WorldEdit](https://minecraft.curseforge.com/projects/worldedit).
 
 ## Credits
-[Lunetrius](https://github.com/Lunatrius) Creator of Schematica
 
-[sk89q](https://www.patreon.com/sk89q) Creator of World Edit
+[Lunatrius](https://github.com/Lunatrius) (creator of Schematica)
 
-[TheBestOpinion](https://www.reddit.com/user/TheBestOpinion) on Reddit for most schematics and inspiration to create this github.
+[sk89q's Patreon](https://www.patreon.com/sk89q) (creator of WorldEdit)
 
-[Hiddenseek/Vevion](https://ugcraft.com) Some schematics and made the github page ^_^
+[TheBestOpinion](https://www.reddit.com/user/TheBestOpinion) (creator of most schematics)
+
+[Hiddenseek/Vevion](https://ugcraft.com) (creator of some schematics and this GitHub repository)
