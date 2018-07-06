@@ -23,7 +23,7 @@ You can fiddle with them at `.minecraft/config/schematica.cfg`. The lines of int
 	B:placeInstantly=true
 ```
 
-Or [check out](http://upaste.me/92d350009432eccab) our cfg file.
+Or [check out](https://github.com/eddoww/modded-schematics/releases/download/v1.2/schematica.cfg) our cfg file.
 
 
 #### WorldEdit (forge)
