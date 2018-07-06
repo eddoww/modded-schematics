@@ -30,6 +30,42 @@ Or [check out](https://github.com/eddoww/modded-schematics/releases/download/v1.
 
 WorldEdit loads its schematics from the `.minecraft/config/worldedit/schematics` folder
 
+### Todo
+
+* Abyssal Craft
+* **~~Actually Additions~~**
+* AE2
+* **~~Astral Sorcery~~**
+* **~~Better with Addons~~**
+* Better with Mods
+* **~~Blood Magic~~**
+* Botania
+* Chance Cubes
+* **~~Charcoal Pit~~**
+* Collosal Chests
+* **~~Compact Machines~~**
+* **~~Draconic Evolution~~**
+* Embers
+* Ender Rift
+* Environmental Tech (if someone wants to...)
+* Evil Craft
+* Forestry
+* IC2
+* **~~Immersive Engineering~~**
+* **~~Immersive Petroleum~~**
+* **~~Immersive Tech~~**
+* Mekanism
+* Pneumaticraft
+* Soul Shards The Old Ways
+* Tech Reborn
+* Terraqueous
+* **~~Thaumcraft~~**
+* Tinkers Smeltery (1x1 and 5x5 and different sizes? )
+* Vanilla Nether Portal
+* **~~Wizardry~~**
+* **~~Woot~~**
+
+
 ## Credits
 
 [Lunatrius](https://github.com/Lunatrius) (Schematica)
