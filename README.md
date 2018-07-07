@@ -25,10 +25,41 @@ You can fiddle with them at `.minecraft/config/schematica.cfg`. The lines of int
 
 Or [check out](https://github.com/eddoww/modded-schematics/releases/download/v1.2/schematica.cfg) our cfg file.
 
+### Todo
 
-#### WorldEdit (forge)
+* Abyssal Craft
+* **~~Actually Additions~~**
+* AE2
+* **~~Astral Sorcery~~**
+* **~~Better with Addons~~**
+* Better with Mods
+* **~~Blood Magic~~**
+* Botania
+* Chance Cubes
+* **~~Charcoal Pit~~**
+* Collosal Chests
+* **~~Compact Machines~~**
+* **~~Draconic Evolution~~**
+* Embers
+* Ender Rift
+* Environmental Tech (if someone wants to...)
+* Evil Craft
+* Forestry
+* IC2
+* **~~Immersive Engineering~~**
+* **~~Immersive Petroleum~~**
+* **~~Immersive Tech~~**
+* Mekanism
+* Pneumaticraft
+* Soul Shards The Old Ways
+* Tech Reborn
+* Terraqueous
+* **~~Thaumcraft~~**
+* **~~Tinkers Smeltery~~**
+* **~~Vanilla~~**
+* **~~Wizardry~~**
+* **~~Woot~~**
 
-WorldEdit loads its schematics from the `.minecraft/config/worldedit/schematics` folder
 
 ## Credits
 
