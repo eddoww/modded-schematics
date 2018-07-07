@@ -55,7 +55,7 @@ Or [check out](https://github.com/eddoww/modded-schematics/releases/download/v1.
 * Tech Reborn
 * Terraqueous
 * **~~Thaumcraft~~**
-* **~~Tinkers Smeltery~~**
+* Tinkers Smeltery (5x5 smeltery && a separate massive block/ingot cooling unit)
 * **~~Vanilla~~**
 * **~~Wizardry~~**
 * **~~Woot~~**
