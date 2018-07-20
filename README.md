@@ -60,6 +60,12 @@ Or [check out](https://github.com/eddoww/modded-schematics/releases/download/v1.
 * **~~Wizardry~~**
 * **~~Woot~~**
 
+## Permission to Share
+
+This project is MIT License, which means you're allowed to share, edit
+and include it in any projects without express permission.
+
+You don't have to include a mention of us in your project, but we would prefer if you did, by linking back to this repo inside the Project Overview.
 
 ## Credits
 
