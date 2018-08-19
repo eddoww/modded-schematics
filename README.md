@@ -13,7 +13,7 @@ dependency.
 
 Schematics looks for schematics in `schematics` in the Minecraft directory.
 
-**Optionally:**
+**Configuration (Optional)**
 
 Schematica can be configured to be more powerful in `config/schematica.cfg` in the Minecraft
 directory.
@@ -33,7 +33,7 @@ Alternatively, you can check out our configuration
 ## Replacing Blocks
 
 If you are using Schematica, there is a way to replace blocks of a specific type in the
-projected schematic. For example, if you want to replace the dirt in the Water Wheel, you can
+projected schematic. For example, if you would like to replace the dirt in the Water Wheel, you can
 use the following command:
 
 	/schematica replace dirt grass
