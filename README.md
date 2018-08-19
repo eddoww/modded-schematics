@@ -30,6 +30,14 @@ and
 Alternatively, you can check out our configuration
 [here](https://github.com/eddoww/modded-schematics/releases/download/v1.2/schematica.cfg).
 
+## Replacing Blocks
+
+If you are using Schematica, there is a way to replace blocks of a specific type in the
+projected schematic. For example, if you want to replace the dirt in the Water Wheel, you can
+use the following command:
+
+	/schematica replace dirt grass
+
 ### TODO
 
 * AbyssalCraft
