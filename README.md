@@ -8,28 +8,33 @@ Schematic files for modded Minecraft 1.12.2 that can be used with
 
 #### Schematica
 
-Schematica requires [LunatriusCore](https://minecraft.curseforge.com/projects/lunatriuscore) as a dependency.
+Schematica requires [LunatriusCore](https://minecraft.curseforge.com/projects/lunatriuscore) as a
+dependency.
 
-It will look for schematics in your `.minecraft/schematics` folder.
+Schematics looks for schematics in `schematics` in the Minecraft directory.
 
 **Optionally:**
 
-Schematica can be configured to be slightly more powerful, namely, by allowing block placements directly in the air and placing as many as it can with each tick.
+Schematica can be configured to be more powerful in `config/schematica.cfg` in the Minecraft
+directory.
 
-You can fiddle with them at `.minecraft/config/schematica.cfg`. The lines of interest are
+You can fiddle with them at `.minecraft/config/schematica.cfg`. The lines of interest are:
 
-```
 	B:placeAdjacent=false
+
+and
+
 	B:placeInstantly=true
-```
 
-Or [check out](https://github.com/eddoww/modded-schematics/releases/download/v1.2/schematica.cfg) our cfg file.
 
-### Todo
+Alternatively, you can check out our configuration
+[here](https://github.com/eddoww/modded-schematics/releases/download/v1.2/schematica.cfg).
 
-* Abyssal Craft
+### TODO
+
+* AbyssalCraft
 * **~~Actually Additions~~**
-* AE2
+* Applied Energistics 2
 * **~~Astral Sorcery~~**
 * **~~Better with Addons~~**
 * Better with Mods
@@ -37,12 +42,12 @@ Or [check out](https://github.com/eddoww/modded-schematics/releases/download/v1.
 * Botania
 * Chance Cubes
 * **~~Charcoal Pit~~**
-* Collosal Chests
+* Colossal Chests
 * **~~Compact Machines~~**
 * **~~Draconic Evolution~~**
 * Embers
 * Ender Rift
-* Environmental Tech (if someone wants to...)
+* Environmental Tech (if someone wants to)
 * Evil Craft
 * Forestry
 * IC2
@@ -51,15 +56,22 @@ Or [check out](https://github.com/eddoww/modded-schematics/releases/download/v1.
 * **~~Immersive Tech~~**
 * Mekanism
 * Pneumaticraft
-* Soul Shards The Old Ways
+* Soul Shards: The Old Ways
 * Tech Reborn
 * Terraqueous
 * **~~Thaumcraft~~**
-* Tinkers Smeltery (5x5 smeltery && a separate massive block/ingot cooling unit)
+* Tinkers' Construct Smeltery (5x5 with a separate massive block/ingot cooling unit)
 * **~~Vanilla~~**
 * **~~Wizardry~~**
 * **~~Woot~~**
 
+## Permissions
+
+This project is licensed under the terms of the MIT license, which means you're allowed to share,
+edit and include it in any projects without express permission.
+
+While the MIT license technically requires attribution, you don't have to mention us in your
+project, although we would prefer it if you provided a link to this repository.
 
 ## Credits
 
