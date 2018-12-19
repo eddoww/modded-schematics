@@ -62,7 +62,7 @@ use the following command:
 * **~~Immersive Engineering~~**
 * **~~Immersive Petroleum~~**
 * **~~Immersive Tech~~**
-* **~~Magneticraft~~** (thx @wormzjl)
+* **~~Magneticraft~~** (thx [@wormzjl](https://github.com/wormzjl))
 * Mekanism
 * Pneumaticraft
 * Soul Shards: The Old Ways
