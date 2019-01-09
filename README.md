@@ -18,7 +18,7 @@ Schematics looks for schematics in `schematics` in the Minecraft directory.
 Schematica can be configured to be more powerful in `config/schematica.cfg` in the Minecraft
 directory.
 
-You can fiddle with them at `.minecraft/config/schematica.cfg`. The lines of interest are:
+You can fiddle with the options at `.minecraft/config/schematica.cfg`. The lines of interest are:
 
 	B:placeAdjacent=false
 
@@ -62,7 +62,7 @@ use the following command:
 * **~~Immersive Engineering~~**
 * **~~Immersive Petroleum~~**
 * **~~Immersive Tech~~**
-* **~~Magneticraft~~** (thx [@wormzjl](https://github.com/wormzjl))
+* **~~Magneticraft~~**
 * Mekanism
 * Pneumaticraft
 * Soul Shards: The Old Ways
@@ -84,10 +84,11 @@ project, although we would prefer it if you provided a link to this repository.
 
 ## Credits
 
-[Lunatrius](https://github.com/Lunatrius) (Schematica)
-
-[sk89q's Patreon](https://www.patreon.com/sk89q) (WorldEdit)
-
-[Yarillo](https://www.reddit.com/user/Yarillo) (first schematics)
-
-[Hiddenseek/Vevion](https://ugcraft.com) (most schematics and this GitHub repository)
+* [Lunatrius](https://github.com/Lunatrius) for making
+[Schemetica](https://minecraft.curseforge.com/projects/schematica)
+* [sk89q](https://github.com/sk89q) for making
+[WorldEdit](https://minecraft.curseforge.com/projects/worldedit)
+	* [Patreon](https://www.patreon.com/sk89q)
+* [Yarillo](https://www.reddit.com/user/Yarillo) for providing the first schematics
+* Hiddenseek/Vevion for many schematics and this GitHub repository
+* [wormzjl](https://github.com/wormzjl) for the Magneticraft schematics
